@@ -1,11 +1,12 @@
 
-
+% Production Scheduling
 % Moore's Algorithm for 1||Ui
 % Nuwan Jaliyagoda
 % Last Update : 27/09/2017
 
 clc;
 
+% Change input method according to your requirement
 pj = [7 8 4 6 6];       %input('Enter Pj as row vector: ');
 dj = [9 17 18 19 23];   %input('Enter Dj as row vector: ');
 
